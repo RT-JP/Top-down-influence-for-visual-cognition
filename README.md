@@ -33,7 +33,9 @@ Attention Index: V1-AI, VHO-AI
 
 # Requirement
 gcc 5.5.0
+
 MATLAB R2018b update 4 and the signal processing tools
+
 gnuplot 5.0 patchlevel 3
 
 # Licence

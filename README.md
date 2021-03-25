@@ -15,7 +15,7 @@ My model consist V1 layer and HVA (or VHO) layer. V1 means a primary visual cort
 # Results
 If you succeed in the simulation, you get 26 figures. 
 
-Tuning curves: Local Field Potential: Bisection_V1_tuning_center_mean, Bisection_VHO_tuning_center_mean, Vernier_V1_tuning_center_mean, Vernier_VHO_tuning_center_mean
+Tuning curves: Bisection_V1_tuning_center_mean, Bisection_VHO_tuning_center_mean, Vernier_V1_tuning_center_mean, Vernier_VHO_tuning_center_mean
 
 Local Field Potential: Bisection_V1_LFP_separate_mean_result, Bisection_HVA_LFP_separate_mean_result, Vernier_V1_LFP_separate_mean_result, Vernier_HVA_LFP_separate_mean_result
 

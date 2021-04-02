@@ -1,5 +1,8 @@
-# Top-down influence for visual cognition
-This repository is about the top-down influence of visual cognition. These files contains C, MATLAB, and shell script.
+# About repository
+This repository is about the top-down influence of visual cognition. I consider two types of perceptual tasks used by [Li et al. (2004)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1440483/).
+
+# Files
+These files contains C, MATLAB, and shell script.
 
 # How to use
 $ ./BisectionVernierTaskSimulation.sh

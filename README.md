@@ -6,7 +6,7 @@ This repository is about the top-down influence of visual cognition. I consider 
 # Model
 My model consists of V1 layer and HVA (or VHO) layer. V1 means a primary visual cortex. HVA means a higher visual areas. VHO is same as HVA.
 
-The V1 model has 20 \times 20 units. Each units constains a pyramidal (Pyr) neuron, a parvalbumin (PV)-expressing interneuron and a somatostatin (SOM)-expressing interneuron. The HVA model has the structure similar to the V1 model. It has 20 \times 3 units. (a) The feedforward and recurrent connections of neurons in V1 and HVA. (b) The feedback and top-down connections. I used the izhikevich neuron model.
+The V1 model has 20 × 20 units. Each units constains a pyramidal (Pyr) neuron, a parvalbumin (PV)-expressing interneuron and a somatostatin (SOM)-expressing interneuron. The HVA model has the structure similar to the V1 model. It has 20 × 3 units. (a) The feedforward and recurrent connections of neurons in V1 and HVA. (b) The feedback and top-down connections. I used the izhikevich neuron model.
 
 ![model](https://user-images.githubusercontent.com/81313746/112433746-068d7500-8d86-11eb-8c21-32b6810faab5.jpg)
 

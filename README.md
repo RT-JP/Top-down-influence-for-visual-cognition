@@ -21,7 +21,7 @@ These files contains C, MATLAB, and shell script. The main files are four types.
 
 (IV) "VR": Vernier Relevant. This is about the vernier task with top-down.
 
-"XXX-izhikevich.c" is a main program (XXX = BIR, BR, VIR, VR). Please refer to the "Bisection-izhikevich-100trials.sh" of "Vernier-izhikevich-100trials.sh" file for the flow from program execution to analysis.
+"XXX-izhikevich.c" is a main program (XXX = BIR, BR, VIR, VR). Please refer to the "Bisection-izhikevich-100trials.sh" or "Vernier-izhikevich-100trials.sh" file for the flow from program execution to analysis.
 
 # How to use
 $ ./BisectionVernierTaskSimulation.sh
